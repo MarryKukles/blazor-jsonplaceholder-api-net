@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9zTbntgeTUU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\12316128\\Desktop\\BlazorUsersJsonPlaceHolderApi\\BlazorUsersJsonPlaceHolderApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\12316128\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.10\\microsoft.aspnetcore.app.internal.assets.10.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}
